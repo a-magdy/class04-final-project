@@ -1,26 +1,35 @@
-# Class working agreement:
+# Class working agreement
 
-## Iterations/Sprints/Deliverables:
-	º Respect the deadlines;
-	º Hand-in on Saturdays till 12:00.
+## Iterations/Sprints/Deliverables
 
-## Communication:
-	º Check your Slack daily;
-	º Transparency;
-	º Create Slack channel for your team;
-	º Use Slack channel Class04 for help (use mentions appropriately: @channel (probably not), 
-	  @here, @name @class04);
-	º Communicate with your team/team mate;
-	º Share knowledge with your team/team mate;
-	º Frequent communication with your team mate;
-	º Github communication.
+```text
+º Respect the deadlines;
+º Hand-in on Saturdays till 12:00.
+```
 
-## Git flow/Pull requests:
-	º Share code, even small changes (and work-in-progress);
-	º Using tools like GitHub to share code;
-	º Review each others code;
-	º Use GitHub;
-	º GitHub pull request for everything.
+## Communication
+
+```text
+º Check your Slack daily;
+º Transparency;
+º Create Slack channel for your team;
+º Use Slack channel Class04 for help (use mentions appropriately: @channel (probably not), 
+  @here, @name @class04);
+º Communicate with your team/team mate;
+º Share knowledge with your team/team mate;
+º Frequent communication with your team mate;
+º Github communication.
+```
+
+## Git flow/Pull requests
+
+```text
+º Share code, even small changes (and work-in-progress);
+º Using tools like GitHub to share code;
+º Review each others code;
+º Use GitHub;
+º GitHub pull request for everything.
+```
 
 We respect deadlines.
 
@@ -32,28 +41,37 @@ We use Github to share code and we always use pull requests and don't merge any 
 
 There will be one main repository for the project which will be forked by one student from each group. The other students contribute to the fork and are welcome to "fork the fork", but it is suggested not doing this until the project is finished as to avoid confusion.
 
-## Team working agreement:
-	º Commitment - Agree on a clear number of hours a week.
+## Team working agreement
 
-## Backlog/Task management:
-	º Split and agree the work load;
-	º Staying in the scope of the given tasks;
-	º To-do list in the scope;
-	º Use Trello;
-	º Use Github Issues;
-	º Use Troll/Scrum;
-	º Use Agile;
-	º Hand-in on Saturdays till 12:00.
+```text
+º Commitment - Agree on a clear number of hours a week.
+```
 
-## Physical meetings:
-	º Have frequent meetings;
-	º Meeting to discuss the requirements;
-	º Meet face to face outside of class;
-	º Communicate frequently and do share screen sessions;
-	º Meet up to your group partner;
-	º We set a goal for how many hours a week we work and try to respect that. 
-	  If you are delayed or need to skip a class or be absent from group work we 
-	  make sure to notify the team members on Slack within reasonable time.
+## Backlog/Task management
+
+```text
+º Split and agree the work load;
+º Staying in the scope of the given tasks;
+º To-do list in the scope;
+º Use Trello;
+º Use Github Issues;
+º Use Troll/Scrum;
+º Use Agile;
+º Hand-in on Saturdays till 12:00.
+```
+
+## Physical meetings
+
+```text
+º Have frequent meetings;
+º Meeting to discuss the requirements;
+º Meet face to face outside of class;
+º Communicate frequently and do share screen sessions;
+º Meet up to your group partner;
+º We set a goal for how many hours a week we work and try to respect that.
+  If you are delayed or need to skip a class or be absent from group work we
+  make sure to notify the team members on Slack within reasonable time.
+```
 
 We meet physically each week to work together and catch up on progress.
 
