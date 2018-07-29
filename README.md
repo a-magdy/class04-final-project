@@ -8,7 +8,7 @@ Main repository for the final project for Class 04
 
 [https://github.com/dpfernandes/class04-final-project/blob/master/WorkingAgreement.md](https://github.com/dpfernandes/class04-final-project/blob/master/WorkingAgreement.md)
 
-_“Working agreements are guidelines that define how groups want to work together, and what they want in the working environment and from each other to feel safe and free to learn, explore and discover.”_
+“Working agreements are guidelines that define how groups want to work together, and what they want in the working environment and from each other to feel safe and free to learn, explore and discover.”_
 
 Read the agreement and live up to it. Your project and team work has to have rules so you develop and communicate in the same way and follow up on each others work! **A finished project is only a sucesss if you did it together and learned together.**
 
@@ -22,11 +22,11 @@ Note that the project is split into two sub-projects. One for the [client](/clie
 
 ### First iteration
 
-##### 1A: When I want to find a specific music I want to be able to search for specific music title;
+##### 1A: When I want to find a specific music I want to be able to search for specific music title
 
 ##### 1B: When I want to find a specific artist I want to be able to search for specific artist - be aware that there are albums that have more than one artist;
 
-##### 1C: When I want to find a music from a specific year I want to be able to search for specific year.
+##### 1C: When I want to find a music from a specific year I want to be able to search for specific year
 
 ###### Build an UI using the mockup below as a guideline for:
 
@@ -85,15 +85,15 @@ TBD
 
 We suggest the following process for working on the project:
 
-1.  Understand the product. Why is it necessary? What does it do and how does it do it?
-2.  Decide on what your architecture will look like. This is mostly given, since all classes have been focusing on a single type of architecture, but make sure you understand what you are building and why you are building it.
-3.  Get a simple "hello world" style of prototype running utilizing the entire stack (i.e. have the React application query the API that will return a string of text fetched from the database). Don't try to implement the actual application yet. Make sure that functionality such as connecting to the database is
-4.  Break the UI into a component hierarchy.
-5.  Design a data-model for your database that will allow you to store and query the data you need.
-6.  Build a migration script that will allow you to easily set up any tables you need in your database and fill it with test data.
-7.  Build a static version of the UI. Don't worry about functionality yet. If you discover discrepancies in your component break-down as you build, update the breakdown.
-8.  Start thinking about what components should be stateful. Add container components as needed.
-9.  Start wiring up all of the functionality, fetching the data from the API and implementing real functionality as opposed to having just static components.
+1. Understand the product. Why is it necessary? What does it do and how does it do it?
+2. Decide on what your architecture will look like. This is mostly given, since all classes have been focusing on a single type of architecture, but make sure you understand what you are building and why you are building it.
+3. Get a simple "hello world" style of prototype running utilizing the entire stack (i.e. have the React application query the API that will return a string of text fetched from the database). Don't try to implement the actual application yet. Make sure that functionality such as connecting to the database is
+4. Break the UI into a component hierarchy.
+5. Design a data-model for your database that will allow you to store and query the data you need.
+6. Build a migration script that will allow you to easily set up any tables you need in your database and fill it with test data.
+7. Build a static version of the UI. Don't worry about functionality yet. If you discover discrepancies in your component break-down as you build, update the breakdown.
+8. Start thinking about what components should be stateful. Add container components as needed.
+9. Start wiring up all of the functionality, fetching the data from the API and implementing real functionality as opposed to having just static components.
 10. Plan development so you can stop developing any new features in the last 10-15% of the project (4-6 days). Use this time as a "feature freeze" period, where you focus on "hardening" the product by testing and fixing bugs.
 
 ## Working with GIT and handing in iterations
