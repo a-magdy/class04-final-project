@@ -1,10 +1,12 @@
-# Class working agreement:
+# Class working agreement
 
-## Iterations/Sprints/Deliverables:
+## Iterations/Sprints/Deliverables
+
 	º Respect the deadlines;
 	º Hand-in on Saturdays till 12:00.
 
-## Communication:
+## Communication
+
 	º Check your Slack daily;
 	º Transparency;
 	º Create Slack channel for your team;
@@ -15,7 +17,8 @@
 	º Frequent communication with your team mate;
 	º Github communication.
 
-## Git flow/Pull requests:
+## Git flow/Pull requests
+
 	º Share code, even small changes (and work-in-progress);
 	º Using tools like GitHub to share code;
 	º Review each others code;
@@ -32,10 +35,12 @@ We use Github to share code and we always use pull requests and don't merge any 
 
 There will be one main repository for the project which will be forked by one student from each group. The other students contribute to the fork and are welcome to "fork the fork", but it is suggested not doing this until the project is finished as to avoid confusion.
 
-## Team working agreement:
+## Team working agreement
+
 	º Commitment - Agree on a clear number of hours a week.
 
-## Backlog/Task management:
+## Backlog/Task management
+
 	º Split and agree the work load;
 	º Staying in the scope of the given tasks;
 	º To-do list in the scope;
@@ -45,7 +50,8 @@ There will be one main repository for the project which will be forked by one st
 	º Use Agile;
 	º Hand-in on Saturdays till 12:00.
 
-## Physical meetings:
+## Physical meetings
+
 	º Have frequent meetings;
 	º Meeting to discuss the requirements;
 	º Meet face to face outside of class;
